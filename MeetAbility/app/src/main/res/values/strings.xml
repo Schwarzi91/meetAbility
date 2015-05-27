@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeetAbility</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_activity">Activity anlegen</string>
+    <string name="search_activty">Activity suchen</string>
+    <string name="show_profile">Profil</string>
+    <string name="show_history">Historie</string>
+</resources>
